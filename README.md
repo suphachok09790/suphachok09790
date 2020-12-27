@@ -5,7 +5,7 @@
  - 🔭 I’m study in kku.
 - 🌱 I’m currently learning node.js
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with machine learning with Tensorflow.
+- 🤔 I’m looking for help with machine learning.
 
 <img alt="Night Coding" src="https://github.com/suphachok09790/suphachok09790/blob/main/images/Night-Coding.gif" align="right"/>
 
