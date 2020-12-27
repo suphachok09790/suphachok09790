@@ -1,7 +1,11 @@
 ## Hi I'm suphachok , Welcome to my Github profile 👋
 ![](https://komarev.com/ghpvc/?username=suphachok09790&color=red)
 
- I’m currently working on my home.
+ - 🔭 I’m study in kku.
+- 🌱 I’m currently learning node.js
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with machine learning with Tensorflow.
+
 
 <!--
 **suphachok09790/suphachok09790** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
