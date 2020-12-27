@@ -1,6 +1,7 @@
-### Hi there 👋
+## Hi I'm suphachok , Welcome to my Github profile 👋
+![](https://komarev.com/ghpvc/?username=adityakamath16&color=red)
 
-🔭 I’m currently working on my home.
+ I’m currently working on my home.
 
 <!--
 **suphachok09790/suphachok09790** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
