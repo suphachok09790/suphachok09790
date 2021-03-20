@@ -10,7 +10,7 @@
 <img alt="Night Coding" src="https://github.com/suphachok09790/suphachok09790/blob/main/images/Night-Coding.gif" align="right"/>
 
 ### Programming Languages  :rocket:
-|<img src="https://github.com/suphachok09790/suphachok09790/blob/main/images/Programming_languages/1024px-Python-logo-notext.svg.png" width=60> | <img src="https://github.com/suphachok09790/suphachok09790/blob/main/images/Programming_languages/javalogo.png" width=60> |<img src="https://github.com/suphachok09790/suphachok09790/blob/main/images/Programming_languages/javascript.jpg" width=60> | <img src="https://github.com/suphachok09790/suphachok09790/blob/main/images/Programming_languages/logo-html-5.png" width=60> | 
+|<img src="https://github.com/suphachok09790/suphachok09790/blob/main/images/Programming_languages/1024px-Python-logo-notext.svg.png" width=60> | <img src="https://github.com/suphachok09790/suphachok09790/blob/main/images/Programming_languages/javalogo.png" width=60> |<img src="https://github.com/suphachok09790/suphachok09790/blob/main/images/Programming_languages/logo-html-5.png" width=60> | 
 |:---:|:---:|:---:|:---:|
 
 ### Tools :fire:
